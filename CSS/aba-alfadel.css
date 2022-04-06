@@ -420,7 +420,8 @@ header .mega-menu .links a {
    font-size:18px;
   }
 }
-.landing .arrow {
+.landing .arrow a {
+  color: var(--main-color);
   cursor: pointer;
   position: absolute;
   left: 50%;
